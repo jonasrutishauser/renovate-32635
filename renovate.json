@@ -1,0 +1,9 @@
+{
+	"packageRules": [
+		{
+			"matchDatasources": ["maven"],
+			"matchPackageNames": ["org.apache.commons:commons-io"],
+			"replacementName": "commons-io:commons-io",
+			"replacementVersion": "1.3.2"
+	]
+}
